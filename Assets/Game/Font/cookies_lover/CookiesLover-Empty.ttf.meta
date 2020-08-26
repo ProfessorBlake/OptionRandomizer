@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4b5190fc62d8c4846a69c53dc74c964f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cookies Lover
+  fontNames:
+  - Cookies Lover
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c83edba06ed5ca4409b35f4369aba459, type: 3}
+  - {fileID: 12800000, guid: 96046585c1a645c4ea5666a812223a9e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
